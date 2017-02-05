@@ -1,0 +1,590 @@
+ Data Variable Location Name
+185-185 QN8
+186-186 QN9
+187-187 QN10
+188-188 QN11
+189-189 QN12
+190-190 QN13
+191-191 QN14
+Question Unweighted
+Weighted Percentage
+81.4 18.6
+6.1 93.9
+20.0 80.0
+7.8 92.2
+41.5 58.5
+16.2 83.8
+5.3 94.7
+2015 YRBS Data User's Guide
+ Code and Label
+Frequency
+Percentage of students who rarely or never wore a bicycle helmet (among students who had ridden a bicycle during the 12 months before the survey)
+1 Yes 2 No
+Missing
+Percentage of students who rarely or never wore a seat belt (when riding in a car driven by someone else)
+1 Yes 2 No
+Missing
+7,413 1,344 6,867
+876 13,194 1,554
+Percentage of students who rode with a driver who had been drinking alcohol (in a car or other vehicle one or more times during the 30 days before the survey)
+1 Yes 2 No
+Missing
+3,407 12,148 69
+Percentage of students who drove when drinking alcohol (one or more times during the 30 days before the survey, among students who had driven a car or other vehicle during the 30 days before the survey)
+1 Yes 2 No
+Missing
+754 7,678 7,192
+Percentage of students who texted or e-mailed while driving a car or other vehicle (on at least 1 day during the 30 days before the survey, among students who had driven a car or other vehicle during the 30 days before the survey)
+1 Yes 2 No
+Missing
+Percentage of students who carried a weapon (such as a gun, knife, or club on at least 1 day during the 30 days before the survey)
+3,451 5,337 6,836
+1 Yes 2 No
+Missing
+Percentage of students who carried a gun (on at least 1 day during the 30 days before the survey)
+1 Yes 2 No
+Missing
+2,526 11,897 1,201
+713 12,550 2,361
+ June 2016
+http://www.cdc.gov/yrbss
+81
+          
+ Data Variable Location Name
+192-192 QN15
+193-193 QN16
+194-194 QN17
+195-195 QN18
+196-196 QN19
+197-197 QN20
+198-198 QN21
+Question Unweighted Code and Label Frequency
+Percentage of students who carried a weapon on school property (such as a gun, knife, or club on at least 1 day during the 30 days before the survey)
+Weighted Percentage
+June 2016
+http://www.cdc.gov/yrbss
+82
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+704 4.1 14,764 95.9
+156
+Percentage of students who did not go to school because they felt unsafe at school or on their way to or from school (on at least 1 day during the 30 days before the survey)
+1 Yes 2 No
+Missing
+Percentage of students who were threatened or injured with a weapon on school property (such as a gun, knife, or club one or more times during the 12 months before the survey)
+1 Yes 2 No
+Missing
+Percentage of students who were in a physical fight (one or more times during the 12 months before the survey)
+1 Yes 2 No
+Missing
+950 14,043 631
+2,881 10,243 2,500
+6.0 94.0
+22.6 77.4
+2.9 97.1
+7.8 92.2
+Percentage of students who were injured in a physical fight (one or more times during the 12 months before the survey; injuries had to be treated by a doctor or nurse)
+1 Yes 2 No
+Missing
+397 12,943 2,284
+Percentage of students who were in a physical fight on school property (one or more times during the 12 months before the survey)
+1 Yes 2 No
+Missing
+1,253 14,079 292
+Percentage of students who were ever physically forced to have sexual intercourse (when they did not want to)
+1 Yes 2 No
+Missing
+1,119 6.7 13,777 93.3
+728
+987 5.6 14,576 94.4
+61
+           
+ 2015 YRBS Data User's Guide
+ Data Variable Location Name
+199-199 QN22
+200-200 QN23
+201-201 QN24
+202-202 QN25
+203-203 QN26
+204-204 QN27
+Question Unweighted Code and Label Frequency
+Percentage of students who experienced physical dating violence (one or more times during the 12 months before the survey, including being hit, slammed into something, or injured with an object or weapon on purpose by someone they were dating or going out with among students who dated or went out with someone during the 12 months before the survey)
+1 Yes 1,068 2 No 9,433 Missing 5,123
+Percentage of students who experienced sexual dating violence (one or more times during the 12 months before the survey, including kissing, touching, or being physically forced to have sexual intercourse when they did not want to by someone they were dating or going out with among students who dated or went out with someone during the 12 months before the survey)
+1 Yes 1,082 2 No 9,098 Missing 5,444
+Percentage of students who were bullied on school property (during the 12 months before the survey)
+Weighted Percentage
+9.6 90.4
+10.6 89.4
+1 Yes 2 No
+Missing
+2,956 20.2 12,492 79.8
+176
+Percentage of students who were electronically bullied (including being bullied through e-mail, chat rooms, instant messaging, websites, or texting during the 12 months before the survey)
+1 Yes 2 No
+Missing
+2,268 15.5 13,197 84.5
+159
+Percentage of students who felt sad or hopeless (almost every day for 2 or more weeks in a row so that they stopped doing some usual activities during the 12 months before the survey)
+1 Yes 2 No
+Missing
+4,789 29.9 10,666 70.1
+169
+Percentage of students who seriously considered attempting suicide (during the 12 months before the survey)
+1 Yes 2 No
+Missing
+2,808 17.7 12,626 82.3
+190
+ June 2016
+http://www.cdc.gov/yrbss
+83
+          
+ Data Variable Location Name
+205-205 QN28
+206-206 QN29
+207-207 QN30
+208-208 QN31
+209-209 QN32
+210-210 QN33
+211-211 QN34
+212-212 QN35
+Question Unweighted Code and Label Frequency
+Percentage of students who made a plan about how they would attempt suicide (during the 12 months before the survey)
+Weighted Percentage
+14.6 85.4
+8.6 91.4
+2.8 97.2
+32.3 67.7
+6.6 93.4
+10.8 89.2
+7.9 92.1
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+Percentage of students who attempted suicide (one or more times during the 12 months before the survey)
+1 Yes 2 No
+Missing
+2,331 12,810 483
+1,203 11,364 3,057
+Percentage of students who attempted suicide that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse (during the 12 months before the survey)
+1 Yes 2 No
+Missing
+399 11,932 3,293
+Percentage of students who ever tried cigarette smoking (even one or two puffs)
+1 Yes 2 No
+Missing
+4,651 9,148 1,825
+Percentage of students who smoked a whole cigarette before age 13 years (for the first time)
+1 Yes 2 No
+Missing
+1,113 13,706 805
+Percentage of students who currently smoked cigarettes (on at least 1 day during the 30 days before the survey)
+1 Yes 2 No
+Missing
+1,645 13,344 635
+Percentage of students who smoked more than 10 cigarettes per day (during the 30 days before the survey among students who currently smoked cigarettes on the days they smoked)
+1 Yes 2 No
+Missing
+139 1,472 14,013
+Percentage of students who usually obtained their own cigarettes by buying them in a store or gas station (during the 30 days before the survey among students who currently smoked cigarettes and who were aged <18 years)
+1 Yes 2 No
+Missing
+156 12.6 1,042 87.4
+14,426
+ June 2016
+http://www.cdc.gov/yrbss
+84
+          
+ Data Variable Location Name
+213-213 QN36
+214-214 QN37
+215-215 QN38
+216-216 QN39
+217-217 QN40
+218-218 QN41
+219-219 QN42
+Question Unweighted Code and Label Frequency
+Percentage of students who tried to quit smoking cigarettes (among students who currently smoked cigarettes during the 12 months before the survey)
+1 Yes 625 2No701 54.6
+Missing 14,298
+Percentage of students who currently used smokeless tobacco (chewing tobacco, snuff, or dip on at least 1 day during the 30 days before the survey)
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+1,120 7.3 14,026 92.7
+478
+Percentage of students who currently smoked cigars (cigars, cigarillos, or little cigars on at least 1 day during the 30 days before the survey)
+1 Yes 2 No
+Missing
+1,576 10.3 13,609 89.7
+Percentage of students who ever used electronic vapor products (e-cigarettes, e-cigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens such as blu, NJOY, or Starbuzz)
+1 Yes 7,093 2 No 7,998 Missing 533
+Percentage of students who currently used electronic vapor products (e-cigarettes, e-cigars, e-pipes, vape pipes, vaping pens, e-hookahs, and hookah pens such as blu, NJOY, or Starbuzz on at least 1 day during the 30 days before the survey)
+1 Yes 3,899 2 No 11,419 Missing 306
+Percentage of students who ever drank alcohol (at least one drink of alcohol on at least 1 day during their life)
+1 Yes 9,652 2 No 5,397
+44.9 55.1
+24.1 75.9
+63.2 36.8
+Missing
+Percentage of students who drank alcohol before age 13 years (for the first time other than a few sips)
+575
+1 Yes 2 No
+Missing
+2,829 17.2 12,428 82.8
+367
+439
+Weighted Percentage
+45.4
+ June 2016
+http://www.cdc.gov/yrbss
+85
+          
+ Data Variable Location Name
+220-220 QN43
+221-221 QN44
+222-222 QN45
+223-223 QN46
+224-224 QN47
+225-225 QN48
+226-226 QN49
+Question Unweighted Code and Label Frequency
+Percentage of students who currently drank alcohol (at least one drink of alcohol on at least 1 day during the 30 days before the survey)
+1 Yes 4,659 2 No 9,455 Missing 1,510
+Percentage of students who drank five or more drinks of alcohol in a row (within a couple of hours on at least 1 day during the 30 days before the survey)
+Weighted Percentage
+32.8 67.2
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+2,723 17.7 12,244 82.3
+657
+Percentage of students who reported that the largest number of drinks they had in a row was 10 or more (within a couple of hours during the 30 days before the survey)
+1 Yes 2 No
+Missing
+539 4.3 11,058 95.7
+Percentage of students who usually obtained the alcohol they drank by someone giving it to them (among students who currently drank alcohol)
+1 Yes 1,932 2 No 2,504 Missing 11,188
+Percentage of students who ever used marijuana (one or more times during their life)
+1 Yes 6,050 2 No 9,107 Missing 467
+Percentage of students who tried marijuana before age 13 years (for the first time)
+44.1 55.9
+38.6 61.4
+1 Yes 2 No
+Missing
+1,341 7.5 13,857 92.5
+426
+Percentage of students who currently used marijuana (one or more times during the 30 days before the survey)
+1 Yes 2 No
+Missing
+3,355 21.7 11,895 78.3
+374
+4,027
+ June 2016
+http://www.cdc.gov/yrbss
+86
+          
+ Data Variable Location Name
+227-227 QN50
+228-228 QN51
+229-229 QN52
+230-230 QN53
+231-231 QN54
+232-232 QN55
+233-233 QN56
+Question Unweighted Code and Label Frequency
+Percentage of students who ever used cocaine (any form of cocaine, such as powder, crack, or freebase, one or more times during their life)
+Weighted Percentage
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+917 5.2 14,515 94.8
+Percentage of students who ever used inhalants (sniffed glue, breathed the contents of aerosol spray cans, or inhaled any paints or sprays to get high, one or more times during their life)
+1 Yes 2 No
+Missing
+1,134 14,024 466
+7.0 93.0
+Percentage of students who ever used heroin (also called "smack," "junk," or "China white," one or more times during their life)
+1 Yes 2 No
+376 2.1 15,048 97.9
+Missing 200
+Percentage of students who ever used methamphetamines (also called "speed," "crystal," "crank," or "ice," one or more times during their life)
+1 Yes 500 2 No 14,389 Missing 735
+Percentage of students who ever used ecstasy (also called "MDMA," one or more times during their life)
+1 Yes 864 2 No 14,533 Missing 227
+Percentage of students who ever used synthetic marijuana (also called "K2", "Spice", "fake weed", "King Kong", "Yucatan Fire", "Skunk", or "Moon Rocks", one or more times during their life)
+3.0 97.0
+5.0 95.0
+9.2 90.8
+1 Yes 2 No
+Missing
+1,554 13,896 174
+Percentage of students who ever took steroids without a doctor's prescription (pills or shots, one or more times during their life)
+1 Yes 2 No
+Missing
+594 3.5 14,571 96.5
+459
+192
+ June 2016
+http://www.cdc.gov/yrbss
+87
+          
+ June 2016
+http://www.cdc.gov/yrbss
+88
+2015 YRBS Data User's Guide
+ Data Variable Location Name
+234-234 QN57
+235-235 QN58
+236-236 QN59
+237-237 QN60
+238-238 QN61
+239-239 QN62
+240-240 QN63
+Question Unweighted Code and Label Frequency
+Percentage of students who ever took prescription drugs without a doctor's prescription (such as OxyContin, Percocet, Vicodin, codeine, Adderall, Ritalin, or Xanax, one or more times during their life)
+1 Yes 2,658 2 No 12,709 Missing 257
+Percentage of students who ever injected any illegal drug (used a needle to inject any illegal drug into their body one or more times during their life)
+1 Yes 285 2 No 14,501 Missing 838
+Percentage of students who were offered, sold, or given an illegal drug on school property (during the 12 months before the survey)
+1 Yes 3,485 2 No 11,311 Missing 828
+Percentage of students who ever had sexual intercourse
+1 Yes 5,958 2 No 8,030
+Missing 1,636
+Percentage of students who had sexual intercourse before age 13 years (for the first time)
+1 Yes 652 2 No 13,280 Missing 1,692
+Percentage of students who had sexual intercourse with four or more persons (during their life)
+1 Yes 1,607 2 No 12,303 Missing 1,714
+Percentage of students who were currently sexually active (sexual intercourse with at least one person during the 3 months before the survey)
+Weighted Percentage
+16.8 83.2
+1.8 98.2
+21.7 78.3
+41.2 58.8
+3.9 96.1
+11.5 88.5
+1 Yes 2 No
+Missing
+4,304 30.1 9,606 69.9 1,714
+           
+ June 2016
+http://www.cdc.gov/yrbss
+89
+2015 YRBS Data User's Guide
+ Data Variable Location Name
+241-241 QN64
+242-242 QN65
+243-243 QN66
+
+
+
+246-246 QN69
+247-247 QN70
+248-248 QN71
+249-249 QN72
+250-250 QN73
+Question Unweighted Code and Label Frequency
+Percentage of students who drank alcohol or used drugs before last sexual intercourse (among students who were currently sexually active)
+1 Yes 902 2 No 3,258 Missing 11,464
+Percentage of students who used a condom (during last sexual intercourse among students who were currently sexually active)
+1 Yes 2,335 2 No 1,861 Missing 11,428
+Percentage of students who used birth control pills (before last sexual intercourse to prevent pregnancy among students who were currently sexually active)
+1 Yes 711 2 No 3,360 Missing 11,553
+Percentage of students who described themselves as slightly or very overweight
+1 Yes 5,012 2 No 10,308 Missing 304
+Percentage of students who were trying to lose weight
+1 Yes 6,676 2 No 7,168
+Missing 1,780
+Percentage of students who did not drink fruit juice (100% fruit juices one or more times during the 7 days before the survey)
+1 Yes 3,656 2 No 11,705 Missing 263
+Percentage of students who did not eat fruit (one or more times during the 7 days before the survey)
+1 Yes 1,643 2 No 13,691 Missing 290
+Percentage of students who did not eat salad (during the 7 days before the survey)
+Weighted Percentage
+20.6 79.4
+56.9 43.1
+18.2 81.8
+31.5 68.5
+45.6 54.4
+23.1 76.9
+10.1 89.9
+1 Yes 2 No
+Missing
+6,158 39.1 9,151 60.9
+315
+           
+ 2015 YRBS Data User's Guide
+ Data Variable Location Name
+251-251 QN74
+252-252 QN75
+253-253 QN76
+254-254 QN77
+255-255 QN78
+256-256 QN79
+257-257 QN80
+258-258 QN81
+Question Unweighted Code and Label Frequency
+Percentage of students who did not eat potatoes (during the 7 days before the survey)
+1 Yes 5,125 2 No 10,208 Missing 291
+Percentage of students who did not eat carrots (during the 7 days before the survey)
+1 Yes 8,001 2 No 7,313 Missing 310
+Percentage of students who did not eat other vegetables (during the 7 days before the survey)
+1 Yes 3,101 2 No 12,204 Missing 319
+Percentage of students who did not drink a can, bottle, or glass of soda or pop (not including diet soda or diet pop, during the 7 days before the survey)
+Weighted Percentage
+32.9 67.1
+51.3 48.7
+18.7 81.3
+1 Yes 2 No
+Missing
+3,734 26.2 11,558 73.8
+332
+Percentage of students who did not drink milk (during the 7 days before the survey)
+1 Yes 2 No
+Missing
+2,832 21.5 10,383 78.5
+Percentage of students who did not eat breakfast (during the 7 days before the survey)
+1 Yes 1,959 2 No 11,897 Missing 1,768
+Percentage of students who were physically active at least 60 minutes per day on 5 or more days (doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time during the 7 days before the survey)
+1 Yes 7,058 2 No 8,187 Missing 379
+Percentage of students who watched television 3 or more hours per day (on an average school day)
+13.8 86.2
+48.6 51.4
+1 Yes 2 No
+Missing
+4,020 24.7 11,104 75.3
+500
+2,409
+ June 2016
+http://www.cdc.gov/yrbss
+90
+          
+ Data Variable Location Name
+259-259 QN82
+260-260 QN83
+261-261 QN84
+262-262 QN85
+263-263 QN86
+264-264 QN87
+265-265 QN88
+266-266 QN89
+Question Unweighted Code and Label Frequency
+Percentage of students who played video or computer games or used a computer 3 or more hours per day (for something that was not school work on an average school day)
+1 Yes 6,529 2 No 8,649 Missing 446
+Percentage of students who attended physical education classes on 1 or more days (in an average week when they were in school)
+Weighted Percentage
+41.7 58.3
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+7,955 51.6 7,217 48.4
+Percentage of students who played on at least one sports team (run by their school or community groups during the 12 months before the survey)
+1 Yes 7,019 2 No 6,103 Missing 2,502
+Percentage of students who were ever tested for HIV (not including tests done when donating blood)
+1 Yes 1,518 2 No 13,378 Missing 728
+Percentage of students who saw a dentist (for a check-up, exam, teeth cleaning, or other dental work during the 12 months before the survey)
+57.6 42.4
+10.2 89.8
+1 Yes 2 No
+Missing
+Percentage of students who had ever been told by a doctor or nurse that they had asthma
+1 Yes 3,230 2 No 10,782 Missing 1,612
+Percentage of students who had 8 or more hours of sleep (on an average school night)
+22.8 77.2
+1 Yes 2 No
+Missing
+4,086 27.3 10,448 72.7
+1,090
+Percentage of students who made mostly A's or B's in school (during the 12 months before the survey)
+1 Yes 2 No
+Missing
+10,321 72.3 4,448 27.7
+855
+452
+10,606 74.4 4,249 25.6
+769
+ June 2016
+http://www.cdc.gov/yrbss
+91
+          
+ Data Variable Location Name
+267-267 QN90
+268-268 QN91
+269-269 QN92
+270-270 QN93
+271-271 QN94
+272-272 QN95
+273-273 QN96
+Question Unweighted Code and Label Frequency
+Percentage of students who usually used marijuana by smoking it in a joint, bong, pipe, or blunt (during the 30 days before the survey, among students who used marijuana)
+1 Yes 2,389 2No261 Missing 12,974
+Percentage of students who used hallucinogenic drugs (such as LSD, acid, PCP, angel dust, mescaline, or mushrooms, one or more times during their life)
+Weighted Percentage
+90.0 10.0
+6.4 93.6
+42.4 57.6
+3.5 96.5
+16.0 84.0
+53.4 46.6
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+760 10,652 4,212
+Percentage of students who did not drink a can, bottle, or glass of a sports drink (such as Gatorade or PowerAde, not including low-calorie sports drinks such as Propel or G2, during the 7 days before the survey)
+1 Yes 2 No
+Missing
+Percentage of students who did not drink a bottle or glass of plain water (including tap, bottled, and unflavored sparkling water, during the 7 days before the survey)
+4,538 6,767 4,319
+1 Yes 2 No
+Missing
+408 10,942 4,274
+Percentage of students who have to avoid some foods because eating the food could cause an allergic reaction (such as skin rashes, swelling, itching, vomiting, coughing, or trouble breathing)
+1 Yes 2 No
+Missing
+1,755 9,494 4,375
+Percentage of students who did exercises to strengthen or tone their muscles (such as push-ups, sit-ups, or weight lifting, on three or more days during the 7 days before the survey)
+1 Yes 2 No
+Missing
+5,956 5,364 4,304
+Percentage of students who used an indoor tanning device (such as a sunlamp, sunbed, or tanning booth [not including getting a spray-on tan], one or more times during the 12 months before the survey)
+1 Yes 2 No
+Missing
+759 7.3 10,438 92.7
+4,427
+ June 2016
+http://www.cdc.gov/yrbss
+92
+          
+ Data Location
+274-274
+275-275
+276-276
+350-350
+351-351
+352-352
+353-353
+Variable Name
+QN97
+QN98
+QN99
+
+Question Unweighted Code and Label Frequency
+Percentage of students who had a sunburn (including even a small part of the skin turning red or hurting for 12 hours or more after being outside in the sun or after using a sunlamp or other indoor tanning device, one or more times during the 12 months before the survey)
+Weighted Percentage
+55.8 44.2
+29.9 70.1
+98.1 1.9
+2015 YRBS Data User's Guide
+ 1 Yes 2 No
+Missing
+5,796 5,389 4,439
+Percentage of students who have serious difficulty concentrating, remembering, or making decisions (because of a physical, mental, or emotional problem)
+1 Yes 2 No
+Missing
+3,507 7,610 4,507
+Percentage of students who speak English well or very well
+1 Yes 10,996 2No217
+Missing 4,411
+
+          
