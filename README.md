@@ -17,6 +17,7 @@ Lift and leverage do not fully characterize a dataset on their own, but as an un
 The YRBSS is a survey given to US high school students every other year that ask them questions about various "risky" behaviors such as drug and alcohol use. The CDC makes this data public [online](https://www.cdc.gov/healthyyouth/data/yrbs/data.htm). The data is provided in an ASCII file format with accompanying pdf guide to column locations of questions. Q1-Q7 ask demographic information, and Q8-Q99 ask students to answer questions about their behaviors. The survey administrators have coded Q8-Q99 into binary yes/no answers that are given in QN8-QN99.
 
 ## Future direction
+
 In the future it would be interesting to look at differences between ages, gender, and states and look into mild behaviors can be used to predict more risky behaviors (eg Marijuana use leading to injected drug use)
 
 
