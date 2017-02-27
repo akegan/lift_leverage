@@ -18,6 +18,6 @@ The YRBSS is a survey given to US high school students every other year that ask
 
 ## Future direction
 
-If I continued to look into this data it'd be interesting to look at differences between ages, gender, and states and look more into whether or not mild behaviors can be used to predict more risky behaviors (eg Marijuana use leading to injected drug use)
+If I continued to look into this data it'd be interesting to look at differences between ages, gender, and states and look into mild behaviors can be used to predict more risky behaviors (eg Marijuana use leading to injected drug use)
 
 
